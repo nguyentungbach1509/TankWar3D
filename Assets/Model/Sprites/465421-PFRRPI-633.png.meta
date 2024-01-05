@@ -1,0 +1,1306 @@
+fileFormatVersion: 2
+guid: f167f398a0d046e4dac276c16e0b845a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_0
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1768
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af317dc79ae8d347b75b36ce9f6004b
+      internalID: 1177001170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_1
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1768
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26dcd146f3f8a349ab08650fc656392
+      internalID: 983364512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_2
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1768
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0460a2bd73d44c2489ba42c51bb65e85
+      internalID: 119172038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_3
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1768
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abdb7bc0267d2843a91643468f97e28
+      internalID: 116955479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_4
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1767
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424fc86dd3d4189488a353d58bc4167d
+      internalID: 499999489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_5
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1768
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8425df274e393f9438b5009a89383aa5
+      internalID: 1427295435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_6
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1768
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f9c74c0a9319543a7c752c8684623c
+      internalID: -775004653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_7
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1767
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0799ffb4c689975458a6f25c45c45b2b
+      internalID: -2031226047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_8
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1768
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5445b93f861032f419382800979a2842
+      internalID: 308609293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_9
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1767
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f028a6605aee447b1ee61a6c1a5a99
+      internalID: 1703302470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_10
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1767
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da00075b9b4ae4345a463af2da0a88d1
+      internalID: -352108612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_11
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1768
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdf8f33f43b2ac498af60e7a1573791
+      internalID: -1227855912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_12
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1768
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5b4d0f19e5fce45b75a89590fd558f
+      internalID: -710327757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_13
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1768
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5be8e43e37144a4cba18c8a8121248e
+      internalID: -1415566651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_14
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1767
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024464369576c8d40b5f33d9b852236c
+      internalID: 931060122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_15
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1768
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3b802e00382124f91ec7fb9ec0f39b
+      internalID: -1505406313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_16
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1768
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9c66b5096ebc8498342541f3f6709d
+      internalID: 1381704222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_17
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1767
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2beaf78065c36444bbba3af1c76b5ed7
+      internalID: -624097065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_18
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1768
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e163b65547e4b384eb69b5b22df94259
+      internalID: 1657498294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_19
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1343
+        width: 753
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3c58764226de14494222466525a20f
+      internalID: -1287745194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_20
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1337
+        width: 244
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dc00be40de1b9409d78f25438dc3bb
+      internalID: 730961754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_21
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1344
+        width: 244
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5482c687977b545a116154febd8845
+      internalID: -618922824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_22
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 931
+        width: 762
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f953f06464fcdd479a011ea909cab54
+      internalID: -151862885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_23
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 920
+        width: 245
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89aa59e72937fe048a18e4f364a0ab3a
+      internalID: 1277840964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_24
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 915
+        width: 259
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88ce725718131b4bae51874c4c37fa8
+      internalID: -2072305534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_25
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 300
+        width: 446
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44b7afde87aaff46986d6f37a8de8a8
+      internalID: 234260206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_26
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 567
+        width: 753
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daf5851d21f1904cb3e2f648556fa0d
+      internalID: -354275580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_27
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 256
+        width: 370
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 83, y: 0, z: 86, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baffc8a1c736394981561b67ccb8115
+      internalID: 1676008904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_28
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 236
+        width: 350
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5498b14cec1c2fd4f8a957a97de33f88
+      internalID: 195822539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_29
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 142
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dbb2045ccb0704eb63e5951a9dcffc
+      internalID: -202412145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_30
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7ae8d3a91fe134b86658ca939c8f9a
+      internalID: -1053834769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_31
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 99
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00626b5dbcf8ba408dc45705f988ef6
+      internalID: 1661692386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_32
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 99
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cf9626b35bfde44b8957727e5d8b3a
+      internalID: 345851513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_33
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 132
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6917df95baede4496b9f400d88741f
+      internalID: -939113823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_34
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 99
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b651de3c79c83b4db7022813f96633c
+      internalID: 255613222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_35
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 99
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7ecc9b8d21c584abed15008a356579
+      internalID: 1389388970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_36
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 123
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9285566ae8c36074489850b7a4be0657
+      internalID: -1692442283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_37
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 110
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec3d7f60f9db174a9c2ac246c94f89a
+      internalID: -1960398987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_38
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 132
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d326d39997c1ea44877ec61b7bcf2e6
+      internalID: -1905175064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_39
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 99
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd22b47f75d863c47939e15487819e97
+      internalID: 2009535856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_40
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 99
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b406912ab25259b4ea0134910fd03d8f
+      internalID: 1344750978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_41
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 99
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde9849ea692aac40b9852402977641f
+      internalID: 1623189855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_42
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 99
+        width: 4
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c049ba0e2311dbf4ebb13b00ece599b9
+      internalID: -1502632314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_43
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 88
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4006453fc20074cb4d29e2ee7d1209
+      internalID: 196270782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_44
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 99
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc292465dcd9fa14396a169eb1ff3ba5
+      internalID: -1458778624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_45
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 99
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3fdc4e360f4e247948656f4faa2f4a
+      internalID: 544375234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_46
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 88
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c87d842fa2989d419619834c043c8d7
+      internalID: -1060949754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_47
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 96
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ec687f84da5674b8297c07218a5c04
+      internalID: 122850409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_48
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 99
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc840a91b3f1434b80727bf5a947305
+      internalID: 168194905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_49
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 98
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f95e169fb19490428cbdb391bcb6cd3
+      internalID: -665792351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_50
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 98
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fe899ca0d6cea46afa5e6ed793c7f8
+      internalID: -1815294698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_51
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 87
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c2348c63a03d247ac2e80cd0a9d9ba
+      internalID: 1932179342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 465421-PFRRPI-633_52
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 99
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b564e0f44c0cbf48b91f472b5219d91
+      internalID: 1949999449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2e2fe1ba65ca3324884df4478942e46b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      465421-PFRRPI-633_0: 1177001170
+      465421-PFRRPI-633_1: 983364512
+      465421-PFRRPI-633_10: -352108612
+      465421-PFRRPI-633_11: -1227855912
+      465421-PFRRPI-633_12: -710327757
+      465421-PFRRPI-633_13: -1415566651
+      465421-PFRRPI-633_14: 931060122
+      465421-PFRRPI-633_15: -1505406313
+      465421-PFRRPI-633_16: 1381704222
+      465421-PFRRPI-633_17: -624097065
+      465421-PFRRPI-633_18: 1657498294
+      465421-PFRRPI-633_19: -1287745194
+      465421-PFRRPI-633_2: 119172038
+      465421-PFRRPI-633_20: 730961754
+      465421-PFRRPI-633_21: -618922824
+      465421-PFRRPI-633_22: -151862885
+      465421-PFRRPI-633_23: 1277840964
+      465421-PFRRPI-633_24: -2072305534
+      465421-PFRRPI-633_25: 234260206
+      465421-PFRRPI-633_26: -354275580
+      465421-PFRRPI-633_27: 1676008904
+      465421-PFRRPI-633_28: 195822539
+      465421-PFRRPI-633_29: -202412145
+      465421-PFRRPI-633_3: 116955479
+      465421-PFRRPI-633_30: -1053834769
+      465421-PFRRPI-633_31: 1661692386
+      465421-PFRRPI-633_32: 345851513
+      465421-PFRRPI-633_33: -939113823
+      465421-PFRRPI-633_34: 255613222
+      465421-PFRRPI-633_35: 1389388970
+      465421-PFRRPI-633_36: -1692442283
+      465421-PFRRPI-633_37: -1960398987
+      465421-PFRRPI-633_38: -1905175064
+      465421-PFRRPI-633_39: 2009535856
+      465421-PFRRPI-633_4: 499999489
+      465421-PFRRPI-633_40: 1344750978
+      465421-PFRRPI-633_41: 1623189855
+      465421-PFRRPI-633_42: -1502632314
+      465421-PFRRPI-633_43: 196270782
+      465421-PFRRPI-633_44: -1458778624
+      465421-PFRRPI-633_45: 544375234
+      465421-PFRRPI-633_46: -1060949754
+      465421-PFRRPI-633_47: 122850409
+      465421-PFRRPI-633_48: 168194905
+      465421-PFRRPI-633_49: -665792351
+      465421-PFRRPI-633_5: 1427295435
+      465421-PFRRPI-633_50: -1815294698
+      465421-PFRRPI-633_51: 1932179342
+      465421-PFRRPI-633_52: 1949999449
+      465421-PFRRPI-633_6: -775004653
+      465421-PFRRPI-633_7: -2031226047
+      465421-PFRRPI-633_8: 308609293
+      465421-PFRRPI-633_9: 1703302470
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

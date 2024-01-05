@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a6235bef2038de44aad63550962757ec
+timeCreated: 1494209827
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93611
+  packageName: TurretA
+  packageVersion: 1.0
+  assetPath: Assets/OS_Turrets/TurretA/Demo/Wall.mat
+  uploadId: 186119

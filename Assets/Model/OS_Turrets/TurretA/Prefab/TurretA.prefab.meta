@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4e0d8c90232339e42aeb2c71a3e573ef
+timeCreated: 1498050693
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93611
+  packageName: TurretA
+  packageVersion: 1.0
+  assetPath: Assets/OS_Turrets/TurretA/Prefab/TurretA.prefab
+  uploadId: 186119

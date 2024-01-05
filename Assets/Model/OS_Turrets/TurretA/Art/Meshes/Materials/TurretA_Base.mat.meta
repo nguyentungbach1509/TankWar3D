@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a4f7e2054f0654748b78c15ece8570d2
+timeCreated: 1498026333
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93611
+  packageName: TurretA
+  packageVersion: 1.0
+  assetPath: Assets/OS_Turrets/TurretA/Art/Meshes/Materials/TurretA_Base.mat
+  uploadId: 186119

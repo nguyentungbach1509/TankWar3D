@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7915e3ac332fab94abfc5b99b354b947
+timeCreated: 1498026688
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 25800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93611
+  packageName: TurretA
+  packageVersion: 1.0
+  assetPath: Assets/OS_Turrets/TurretA/Demo/DemoScene/LightingData.asset
+  uploadId: 186119
